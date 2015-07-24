@@ -9,4 +9,7 @@ alias gb="git branch"
 
 alias gsb="git show-branch"
 alias gdm="git diff master"
+alias gdl="git diff HEAD~1"
+alias gdlo="git diff HEAD~1 --name-only"
+
 
