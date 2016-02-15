@@ -6,6 +6,7 @@ alias gc="git checkout"
 alias gm="git commit"
 alias gd="git diff"
 alias gb="git branch"
+alias gr="git rebase"
 
 alias gsb="git show-branch"
 alias gdm="git diff master"
